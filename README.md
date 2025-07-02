@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Murilo Freitas de Souza
 
 - 🎓 Currently studying for an Advanced Diploma in Information Technology (Telecommunications Engineering) in Australia.
-- 📚 Starting next year, I'll begin my Software Engineering studies at BYU-Idaho (distance learning).
 - 💻 Passionate about programming, with a focus on TypeScript, and experience in Node.js, JavaScript, HTML, and CSS.
 - 🔭 Seeking a Web Developer position where I can enhance my skills and apply the knowledge I've gained through my studies.
 - 💍 Married, 26 years old, and dedicated to continuous learning while exploring new opportunities in the tech industry.
