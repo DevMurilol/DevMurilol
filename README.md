@@ -3,7 +3,7 @@
 - 🎓 Currently studying for an Advanced Diploma in Information Technology (Telecommunications Engineering) in Australia.
 - 💻 Passionate about programming, with a focus on TypeScript, and experience in Node.js, JavaScript, HTML, and CSS.
 - 🔭 Seeking a Web Developer position where I can enhance my skills and apply the knowledge I've gained through my studies.
-- 💍 Married, 26 years old, and dedicated to continuous learning while exploring new opportunities in the tech industry.
+- 💍 Married, 27 years old, and dedicated to continuous learning while exploring new opportunities in the tech industry.
 - 🌱 Currently focused on frontend development, especially using React with TypeScript.
 - 👯 Open to collaborating on open-source projects or team-based projects involving web development, particularly with JavaScript/TypeScript, React, or Node.js.
 - 😄 Pronouns: He/Him
